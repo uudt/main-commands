@@ -1,6 +1,9 @@
+import random
+
 print("Hello, GitHub users!")
 print("I wish all of you a good day!!")
-
+print("Let's figure out how lucky you are today: ")
+print("""
      _____     _____
   ,gdPPPPRb, ,dPPPPRbg,
  dP'      `YdP'      `Yb
@@ -18,3 +21,6 @@ print("I wish all of you a good day!!")
             8    
             8    
             8
+"""
+luckiness = random.randint(1, 11)
+print(f"Today you're lucky for {luckiness} out of 10")
