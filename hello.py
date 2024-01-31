@@ -1,9 +1,5 @@
 print("Hello, GitHub users!")
-<<<<<<< HEAD
-print("I wish you a good day!!")
-=======
-print("I wish all of you a good day!")
->>>>>>> ccf7c7e5ab441d2e69e6b164ecca8a3d0e77fa6d
+print("I wish all of you a good day!!")
 
      _____     _____
   ,gdPPPPRb, ,dPPPPRbg,
