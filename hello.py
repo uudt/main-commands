@@ -1,5 +1,5 @@
 print("Hello, GitHub users!")
-print("I wish all of you a good day!!")
+print("I wish all of you a good day!")
 
      _____     _____
   ,gdPPPPRb, ,dPPPPRbg,
